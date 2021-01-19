@@ -54,4 +54,4 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 BUILD_FINGERPRINT := "google/redfin/redfin:11/RQ1A.210105.003/7005429:user/release-keys"
 
 # Maintainer
-TITANIUM_MAINTAINER := 🔥Curious_To_Learn🔥
+TITANIUM_BUILD_MAINTAINER := 🔥Curious_To_Learn🔥
