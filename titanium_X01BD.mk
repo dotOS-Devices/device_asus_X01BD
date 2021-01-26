@@ -26,7 +26,7 @@ $(call inherit-product, vendor/titanium/config/common_full_phone.mk)
 TARGET_BOOT_ANIMATION_RES := 1080
 
 # Official Titanium
-Titanium_BUILD_TYPE := UNOFFICIAL
+Titanium_BUILD_TYPE := OFFICIAL
 
 # Google Connectivity Services
 TARGET_INCLUDE_WIFI_EXT := true
