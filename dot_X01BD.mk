@@ -25,6 +25,9 @@ $(call inherit-product, vendor/dot/config/common.mk)
 # Bootanimation Resolution
 TARGET_BOOT_ANIMATION_RES := 1080
 
+# FaceUnlock
+TARGET_FACE_UNLOCK_SUPPORTED := true
+
 # Google Connectivity Services
 TARGET_INCLUDE_WIFI_EXT := true
 
