@@ -28,6 +28,9 @@ TARGET_BOOT_ANIMATION_RES := 1080
 # FaceUnlock
 TARGET_FACE_UNLOCK_SUPPORTED := true
 
+# Dot Official
+DOT_OFFICIAL := true
+
 # Google Connectivity Services
 TARGET_INCLUDE_WIFI_EXT := true
 
