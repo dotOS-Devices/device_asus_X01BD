@@ -7,3 +7,4 @@ git clone https://github.com/LineageOS/android_hardware_qcom_audio -b lineage-18
 rm -rf vendor/qcom/opensource/data-ipa-cfg-mgr
 git clone https://github.com/LineageOS/android_vendor_qcom_opensource_data-ipa-cfg-mgr.git -b lineage-18.1 vendor/qcom/opensource/data-ipa-cfg-mgr
 git clone https://gitlab.com/Curious-To-Learn/vendor_addons_oneplus_apps.git -b OOS11 vendor/addons/oneplus/apps
+git clone --depth=1 https://github.com/kdrag0n/proton-clang.git -b master prebuilts/clang/host/linux-x86/clang-proton
