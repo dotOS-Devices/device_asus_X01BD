@@ -6,9 +6,9 @@
     "remote"     : "github"
   },
   {
-    "repository" : "dotOS-Devices/android_kernel_asus_X01BD",
+    "repository" : "ElectroPerf/android_kernel_asus_X01BD",
     "target_path": "kernel/asus/sdm660",
-    "branch"     : "11",
+    "branch"     : "CAF-R-WIFI-STABLE",
     "remote"     : "github"
   },
   {
