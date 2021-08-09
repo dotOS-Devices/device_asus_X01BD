@@ -10,23 +10,5 @@
 	{
 		"repository": "vendor_asus_proprietary",
 		"target_path": "vendor/asus"
-	},
-	{
-		"repository": "ElectroPerf/hardware_qcom-caf_msm8998_display",
-		"target_path": "hardware/qcom-caf/msm8998-asus/display",
-		"remote": "github",
-		"branch": "11"
-	},
-	{
-		"repository": "LineageOS/android_hardware_qcom_audio",
-		"target_path": "hardware/qcom-caf/msm8998-asus/audio",
-		"remote": "github",
-		"branch": "lineage-18.1-caf-msm8998"
-	},
-	{
-		"repository": "LineageOS/android_hardware_qcom_media",
-		"target_path": "hardware/qcom-caf/msm8998-asus/media",
-		"remote": "github",
-                "branch": "lineage-18.1-caf-msm8998"
 	}
 ]
